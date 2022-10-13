@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitkin
-- 👀 I’m interested in tests, containers, APIs, Python, Go, data
-- 🌱 I’m currently learning Go, frontend stack, orchestration
+- 👀 I’m interested in tests, containers, APIs, Python, Go, data and GIS
+- 🌱 I’m currently learning QT, GUI and API testing
 
 <!---
 - 💞️ I’m looking to collaborate on ...
